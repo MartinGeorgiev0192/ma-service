@@ -1,0 +1,2 @@
+# ma-service
+static WebPage
